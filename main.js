@@ -26,7 +26,7 @@ client.on('messageCreate', (message) => {
 	};
 
 	if (message.content === 'арта, скажи мяу') {
-		message.reply('мяу <:7200kokomiuwu:1204487984720642048>');
+		message.reply('мяу');
 	};
 		
 	if (message.content === 'арта, поставь реакцию') {
